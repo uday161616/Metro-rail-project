@@ -1,0 +1,15 @@
+.signup_card{
+    border:1px solid black;
+}
+.login_card{
+    border:1px solid black;
+}
+.forgot_card{
+    margin-top:1em;
+    border:1px solid black;
+
+}
+.error {
+    color: #ff3860;
+    
+}
